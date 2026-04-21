@@ -1,14 +1,14 @@
 //
-//  hw_4Tests.swift
-//  hw_4Tests
+//  FirstAssignmentTests.swift
+//  FirstAssignmentTests
 //
-//  Created by OstapMamykin on 30.09.2025.
+//  Created by OstapMamykin on 21.04.2026.
 //
 
 import Testing
-@testable import hw_4
+@testable import FirstAssignment
 
-struct hw_4Tests {
+struct FirstAssignmentTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
