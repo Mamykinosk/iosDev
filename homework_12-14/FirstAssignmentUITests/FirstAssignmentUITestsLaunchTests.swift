@@ -1,13 +1,13 @@
 //
-//  hw_4UITestsLaunchTests.swift
-//  hw_4UITests
+//  FirstAssignmentUITestsLaunchTests.swift
+//  FirstAssignmentUITests
 //
-//  Created by OstapMamykin on 30.09.2025.
+//  Created by OstapMamykin on 21.04.2026.
 //
 
 import XCTest
 
-final class hw_4UITestsLaunchTests: XCTestCase {
+final class FirstAssignmentUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,13 +1,13 @@
 //
-//  hw_4UITests.swift
-//  hw_4UITests
+//  FirstAssignmentUITests.swift
+//  FirstAssignmentUITests
 //
-//  Created by OstapMamykin on 30.09.2025.
+//  Created by OstapMamykin on 21.04.2026.
 //
 
 import XCTest
 
-final class hw_4UITests: XCTestCase {
+final class FirstAssignmentUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
